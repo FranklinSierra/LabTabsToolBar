@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LabTabsToolBar</string>
+    <string name="nombre_1erTab">Formulario</string>
+    <string name="nombre_2doTab">Lista</string>
+    <string name="fragment_form_input_name">Digite un nombre</string>
+    <string name="fragment_form_label_person_name">Nombre Persona</string>
+    <string name="fragment_form_label_person_country">Pais Persona</string>
+    <string name="fragment_form_btn_create_person">Crear Persona</string>
+    <string name="country_spain">España</string>
+    <string name="country_argentina">Argentina</string>
+    <string name="country_bolivia">Bolivia</string>
+    <string name="country_chile">Chile</string>
+    <string name="country_colombia">Colombia</string>
+    <string name="country_ecuador">Ecuador</string>
+    <string name="country_mexico">México</string>
+    <string name="country_peru">Perú</string>
+    <string name="country_uruguay">Uruguay</string>
+    <string name="country_venezuela">Venezuela</string>
+
+
+    <!--&lt;!&ndash; TODO: Remove or change this placeholder text &ndash;&gt;
+    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+</resources>
